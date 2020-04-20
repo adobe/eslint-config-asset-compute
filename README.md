@@ -3,7 +3,7 @@
 
 # asset-compute-eslint-config
 
-Central ESlint configuration for Asset Compute
+Central ESlint configuration for Adobe Asset Compute
 
 This is set up as a shareable config in the adobe scope as described [here](https://eslint.org/docs/developer-guide/shareable-configs)
 
