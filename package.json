@@ -1,6 +1,6 @@
 {
   "name": "@adobe/asset-compute-eslint-config",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Adobe Asset Compute - Central Eslint Congfiguration",
   "main": "index.js",
   "author": "Adobe Inc.",
