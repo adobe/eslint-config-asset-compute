@@ -1,5 +1,4 @@
-<!--- when a new release happens, the VERSION and URL in the badge have to be manually updated because it's a private registry --->
-[![npm version](https://img.shields.io/badge/%40nui%2Feslint--config-1.0.4-blue.svg)](https://artifactory.corp.adobe.com/artifactory/npm-nui-release/@nui/eslint-config/-/@nui/eslint-config-1.0.4.tgz)
+[![Version](https://img.shields.io/npm/v/@adobe/asset-compute-eslint-config.svg)](https://npmjs.org/package/@adobe/asset-compute-eslint-config)
 
 # asset-compute-eslint-config
 
