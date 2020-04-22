@@ -1,6 +1,6 @@
-[![Version](https://img.shields.io/npm/v/@adobe/asset-compute-eslint-config.svg)](https://npmjs.org/package/@adobe/asset-compute-eslint-config)
+[![Version](https://img.shields.io/npm/v/@adobe/eslint-config-asset-compute.svg)](https://npmjs.org/package/@adobe/eslint-config-asset-compute)
 
-# asset-compute-eslint-config
+# eslint-config-asset-compute
 
 Shared ESlint configuration for Nodejs projects related to the Adobe Asset Compute service
 
@@ -10,13 +10,13 @@ This is set up as a shareable config in the adobe scope as described [here](http
 
 1. Install the Asset Compute eslint config:
 
-`npm install @adobe/asset-compute-eslint-config --save-dev`
+`npm install @adobe/eslint-config-asset-compute --save-dev`
 
-2. Create or edit the `.eslintrc.js` file inside the action and add `@adobe/asset-compute-eslint-config` as an extension:
+2. Create or edit the `.eslintrc.js` file inside the action and add `@adobe/eslint-config-asset-compute` as an extension:
 
 ```node
 module.exports = {
-    "extends": "@adobe/asset-compute-eslint-config",
+    "extends": "@adobe/eslint-config-asset-compute",
 };
 ```
 

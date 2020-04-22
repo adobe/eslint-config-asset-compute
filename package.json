@@ -1,13 +1,17 @@
 {
-  "name": "@adobe/asset-compute-eslint-config",
-  "version": "1.0.1",
+  "name": "@adobe/eslint-config-asset-compute",
+  "version": "1.0.0",
   "description": "Adobe Asset Compute - Shared Eslint Configuration",
   "main": "index.js",
   "author": "Adobe Inc.",
-  "repository": "adobe/asset-compute-eslint-config",
+  "repository": "adobe/eslint-config-asset-compute",
+  "license": "Apache-2.0",
   "dependencies": {
     "eslint": "^6.8.0",
     "eslint-config-problems": "^4.0.0",
     "eslint-plugin-mocha": "^6.3.0"
+  },
+  "peerDependencies": {
+    "eslint": "^6.8.0"
   }
 }
