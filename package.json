@@ -1,6 +1,6 @@
 {
   "name": "@adobe/eslint-config-asset-compute",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Adobe Asset Compute - Shared Eslint Configuration",
   "main": "index.js",
   "author": "Adobe Inc.",
