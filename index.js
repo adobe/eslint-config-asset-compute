@@ -31,6 +31,7 @@ module.exports = {
         "prefer-arrow-callback": "off",
         "prefer-template": "off",
         "object-shorthand": "off",
+        "prefer-object-spread": "off",
 
         // console.* is wanted in OpenWhisk actions
         "no-console": ["off", {"allow": true}],
