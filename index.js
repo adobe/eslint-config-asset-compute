@@ -22,7 +22,7 @@ module.exports = {
         "node": true
     },
     "parserOptions": {
-        "ecmaVersion": 2020
+        "ecmaVersion": 2018
     },
     "plugins": [
         "mocha"
