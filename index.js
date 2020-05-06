@@ -25,7 +25,8 @@ module.exports = {
         "ecmaVersion": 2018
     },
     "plugins": [
-        "mocha"
+        "mocha",
+        "eslint-plugin-notice"
     ],
     "rules": {
         "prefer-arrow-callback": "off",
@@ -61,6 +62,13 @@ module.exports = {
         "mocha/no-pending-tests": "error",
         "mocha/no-return-and-callback": "error",
         "mocha/no-sibling-hooks": "error",
-        "mocha/no-async-describe": "error"
+        "mocha/no-async-describe": "error",
+
+        // verify copyright headers are present - point to templates in this eslint folder (hacky)
+        "notice/notice": [ "error",
+            {
+                "templateFile" : "./node_modules/@adobe/eslint-config-asset-compute/templates/code-header.js"
+            }
+        ]
     }
 };
