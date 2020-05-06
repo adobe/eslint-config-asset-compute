@@ -65,7 +65,7 @@ module.exports = {
         "mocha/no-async-describe": "error",
 
         // verify copyright headers are present - point to templates in this eslint folder (hacky)
-        "notice/notice": [ "error",
+        "notice/notice": [ "warn",
             {
                 "templateFile" : "./node_modules/@adobe/eslint-config-asset-compute/templates/code-header.js"
             }
