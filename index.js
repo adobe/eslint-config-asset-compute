@@ -29,6 +29,11 @@ module.exports = {
         "eslint-plugin-notice"
     ],
     "rules": {
+        // formatting
+        "semi": ["error", "always"],
+        "indent": ["error", 4],
+
+        // adjustments
         "prefer-arrow-callback": "off",
         "prefer-template": "off",
         "object-shorthand": "off",
