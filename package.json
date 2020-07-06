@@ -1,7 +1,7 @@
 {
   "name": "@adobe/eslint-config-asset-compute",
   "version": "1.3.0",
-  "description": "Adobe Asset Compute - Shared Eslint Configuration",
+  "description": "Adobe Asset Compute - Shared Eslint Configuration_cicd settings",
   "main": "index.js",
   "author": "Adobe Inc.",
   "repository": "adobe/eslint-config-asset-compute",
