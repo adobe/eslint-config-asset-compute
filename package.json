@@ -18,7 +18,7 @@
   "devDependencies": {
     "@semantic-release/git": "^9.0.0",
     "conventional-changelog-eslint": "^3.0.9",
-    "semantic-release": "^17.3.0"
+    "semantic-release": "^19.0.3"
   },
   "scripts": {
     "semantic-release": "semantic-release"
